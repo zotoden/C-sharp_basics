@@ -1,0 +1,7 @@
+D:\C#\Zotov_DZ4\Zotov_DZ4\bin\Debug\Zotov_DZ4.exe.config
+D:\C#\Zotov_DZ4\Zotov_DZ4\bin\Debug\Zotov_DZ4.exe
+D:\C#\Zotov_DZ4\Zotov_DZ4\bin\Debug\Zotov_DZ4.pdb
+D:\C#\Zotov_DZ4\Zotov_DZ4\obj\Debug\Zotov_DZ4.csprojAssemblyReference.cache
+D:\C#\Zotov_DZ4\Zotov_DZ4\obj\Debug\Zotov_DZ4.csproj.CoreCompileInputs.cache
+D:\C#\Zotov_DZ4\Zotov_DZ4\obj\Debug\Zotov_DZ4.exe
+D:\C#\Zotov_DZ4\Zotov_DZ4\obj\Debug\Zotov_DZ4.pdb
