@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\obj\Debug\Zotov_DZ6.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\obj\Debug\Zotov_DZ6.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\bin\Debug\Zotov_DZ6.exe.config
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\bin\Debug\Zotov_DZ6.exe
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\bin\Debug\Zotov_DZ6.pdb
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\obj\Debug\Zotov_DZ6.exe
+C:\Users\Daniel\source\repos\Zotov_DZ6\Zotov_DZ6\obj\Debug\Zotov_DZ6.pdb
